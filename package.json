@@ -29,6 +29,7 @@
     "react-native-vector-icons": "^8.1.0",
     "react-navigation": "^1.0.0-beta.7",
     "react-timer-mixin": "^0.13.4",
+    "requirements": "^1.4.1",
     "watchman": "^1.0.0"
   },
   "devDependencies": {
